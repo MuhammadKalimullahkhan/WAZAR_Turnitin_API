@@ -1,0 +1,1 @@
+from .turnitinManager import *
